@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad341ace-36fa-47c3-bce3-33166f52b8ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/InsightSports.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Bronze (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Bronze.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Capilano_v._Holland.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Dawson_v._St._Clair.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Dawson_v._VIU.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_George_Brown_v._Capilano.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Gold.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_Holland_v._St._Mary-s.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_SAIT_v._George_Brown.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_SAIT_v._Holland.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_St._Clair_v._Capilano (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_St._Clair_v._Capilano.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_St._Clair_v._St._Mary-s.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_VIU_v._George_Brown.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_data_manual_download/2023_MBB_-_VIU_v._St._Mary-s.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="ad341ace-36fa-47c3-bce3-33166f52b8ab" name="Changes" comment="initial 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,12 +90,25 @@
       <option name="presentableId" value="Default" />
       <updated>1726865987164</updated>
       <workItem from="1726865992356" duration="4134000" />
-      <workItem from="1727123927961" duration="569000" />
+      <workItem from="1727123927961" duration="917000" />
     </task>
+    <task id="LOCAL-00001" summary="initial 2">
+      <option name="closed" value="true" />
+      <created>1727125548389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727125548389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
